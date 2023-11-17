@@ -23,7 +23,7 @@ Clone o Repositório:
 Clone este repositório em sua máquina local usando o comando:
 bash
 Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/william-devBr/album-interrativo-com-javascript.git
 Abra o Arquivo index.html:
 
 Navegue até o diretório onde você clonou o repositório e abra o arquivo index.html em seu navegador favorito.
